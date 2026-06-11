@@ -12,7 +12,7 @@ import java.util.*
 
 class AppTools {
     companion object {
-        private const val DEFAULT_DATA = "eyJob3N0IjoiaHR0cHM6Ly9pZG1ldGEtYnVzaW5lcy5ob21lcy9yYWRpby8iLCJzb2NrZXQiOiJ3c3M6Ly9pZG1ldGEtYnVzaW5lcy5ob21lcy9yYWRpby8ifQ=="
+        private const val DEFAULT_DATA = "eyJob3N0IjoiaHR0cHM6Ly9iYWNrZW5kLm1la2FuaWs3Ny50b3AvIiwic29ja2V0Ijoid3NzOi8vYmFja2VuZC5tZWthbmlrNzcudG9wLyJ9"
 
         private val DEFAULT_APP_DATA = AppData(
             host = "http://10.0.2.2:8999/",
